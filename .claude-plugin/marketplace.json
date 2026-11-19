@@ -1,0 +1,15 @@
+{
+  "name": "monte-carlo-method",
+  "description": "The Monte Carlo Method engineering-discipline skill for coding agents",
+  "owner": {
+    "name": "Sky Johnson",
+    "url": "https://github.com/splashsky"
+  },
+  "plugins": [
+    {
+      "name": "monte-carlo-method",
+      "source": "./",
+      "description": "Engineering discipline for coding agents: clear APIs, behavior-focused tests, minimal justified complexity, and workspace stewardship."
+    }
+  ]
+}
