@@ -29,6 +29,7 @@ Choose outcome 2 as soon as progress needs a decision, permission, or resource y
 ## Staff
 
 - Learn what your harness actually offers before planning around it: which agents and models exist, how deep delegation may go, how isolation (worktrees, branches) works, and what the project's resource limits allow. If you cannot delegate, do the work yourself under the same ultimatum, or return a staffing plan to whoever you report to.
+- An agent's tool restrictions guard against accidents; they are not isolation. When an agent's mistake would be costly or its work must not touch yours, give it its own worktree or checkout.
 - Size the first attempt to the task's risk. Where a decisive check exists, try a cheaper agent first. Lower capacity again once an agent proves reliable on that kind of work.
 
 ## Brief
