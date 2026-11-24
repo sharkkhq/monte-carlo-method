@@ -9,7 +9,7 @@
     {
       "name": "monte-carlo-method",
       "source": "./",
-      "description": "Engineering discipline for coding agents: clear APIs, behavior-focused tests, minimal justified complexity, and workspace stewardship."
+      "description": "Engineering discipline for coding agents: clear APIs, behavior-focused tests, minimal justified complexity, evidence over authority across agents, and workspace stewardship."
     }
   ]
 }

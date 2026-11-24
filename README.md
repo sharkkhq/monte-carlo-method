@@ -1,8 +1,8 @@
 # The Monte Carlo Method
 
-An [Agent Skill](https://agentskills.io) that gives coding agents an engineering discipline: build the simplest coherent system that fulfills the actual contract, make intent obvious and complexity accountable, verify results, and leave the workspace and version history in good order.
+An [Agent Skill](https://agentskills.io) that gives coding agents an engineering discipline: build the simplest coherent system that fulfills the actual contract, make intent obvious and complexity accountable, verify results, let evidence outrank authority, and leave the workspace and version history in good order.
 
-It covers understanding before acting, justified complexity, plain and declarative APIs, acyclic module organization, behavior-focused tests, surgical changes, measured performance work, and stewardship across subagents. Read the full skill in [`skills/monte-carlo-method/SKILL.md`](skills/monte-carlo-method/SKILL.md).
+It covers understanding and challenging the contract, justified complexity, plain and declarative APIs, acyclic module organization, behavior-focused tests, surgical changes, measurement you can trust, and work among independent, fallible agents: roles, bounded delegation, independent review, compute spent in proportion to risk, convergence, and turning lessons into lasting tests, specifications and rules. Read the full skill in [`skills/monte-carlo-method/SKILL.md`](skills/monte-carlo-method/SKILL.md).
 
 ## Install
 
@@ -11,13 +11,13 @@ It covers understanding before acting, justified complexity, plain and declarati
 The [`skills`](https://github.com/vercel-labs/skills) CLI detects your installed agents (Claude Code, OpenCode, Codex, Cursor, GitHub Copilot, Gemini CLI, and many more) and installs the skill into each:
 
 ```sh
-npx skills add splashsky/monte-carlo-method
+npx skills add sharkkhq/monte-carlo-method
 ```
 
 ### Claude Code plugin
 
 ```
-/plugin marketplace add splashsky/monte-carlo-method
+/plugin marketplace add sharkkhq/monte-carlo-method
 /plugin install monte-carlo-method@monte-carlo-method
 ```
 
@@ -32,7 +32,7 @@ Copy the `skills/monte-carlo-method` folder into your agent's skills directory:
 | Agents that follow the shared `.agents` convention (e.g. Codex) | `~/.agents/skills/` | `.agents/skills/` |
 
 ```sh
-git clone https://github.com/splashsky/monte-carlo-method
+git clone https://github.com/sharkkhq/monte-carlo-method
 cp -r monte-carlo-method/skills/monte-carlo-method ~/.claude/skills/
 ```
 
