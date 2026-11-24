@@ -1,7 +1,7 @@
 {
   "name": "monte-carlo-method",
   "displayName": "Monte Carlo Method",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Engineering discipline for coding agents: clear declarative APIs, behavior-focused tests, coherent acyclic organization, minimal justified complexity, verified outcomes, evidence over authority across agents, and stewardship of the workspace and version history.",
   "author": {
     "name": "Sky Johnson",
@@ -10,5 +10,5 @@
   "homepage": "https://github.com/sharkkhq/monte-carlo-method",
   "repository": "https://github.com/sharkkhq/monte-carlo-method",
   "license": "MIT",
-  "keywords": ["skill", "engineering", "code-quality", "testing", "api-design", "refactoring"]
+  "keywords": ["skill", "engineering", "code-quality", "testing", "api-design", "refactoring", "orchestration", "multi-agent"]
 }
